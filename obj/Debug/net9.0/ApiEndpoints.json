@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PasswordChecker.Controllers.CompromisedAccountsController",
+    "Method": "PostSubHash",
+    "RelativePath": "CompromisedAccounts/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordChecker.Models.SearchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
